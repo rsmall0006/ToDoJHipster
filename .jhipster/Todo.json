@@ -1,0 +1,23 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "datetoaccomplish",
+            "fieldType": "LocalDate"
+        },
+        {
+            "fieldName": "priority",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20170403190636",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "todo",
+    "pagination": "no"
+}
